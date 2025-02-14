@@ -16,12 +16,10 @@ This package wraps the insights from academic publications on the Euphemia algor
 
 The package is currently under development and is not yet ready for use. The following features are planned for the first release:
 
-- [ ] A simple order book implementation that allows for the creation of orders and the execution of trades.
-- [ ] A simple market clearing algorithm that allows for the clearing of the order book.
-- [ ] A simple market simulation that allows for the simulation of the market clearing algorithm.
-- [ ] A simple market visualization that allows for the visualization of the market clearing algorithm.
-- [ ] A simple market analysis that allows for the analysis of the market clearing algorithm.
-- [ ] A simple market report that allows for the reporting of the market clearing algorithm.
+- [ ] A simple order book implementation that allows for the creation of orders for the execution of trades.
+- [ ] A simple market simulation that allows for the clearing of the order book.
+- [ ] A simple market visualization that allows for the visualization of the market clearing outcome.
+- [ ] A simple market analysis that produces a report describing the market clearing outcome.
 - [ ] Facilities to test different market scenarios and incentives for market participants and to compare the results with the real market data.
 
 
